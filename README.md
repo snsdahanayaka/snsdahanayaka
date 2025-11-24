@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sandali👨‍💻</h1>
 <h3 align="center">Undergraduate Student</h3>
 
-- 🌱 I’m currently learning ** mernstack**
+- 🌱 I’m currently learning ** ML**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **ML**
 
 - 📫 How to reach me **sandalidahanayake@gmail.com**
 
